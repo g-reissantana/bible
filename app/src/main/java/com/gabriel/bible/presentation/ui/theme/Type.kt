@@ -1,4 +1,4 @@
-package com.gabriel.bible.ui.theme
+package com.gabriel.bible.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
