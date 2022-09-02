@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">bible</string>
-    <string name="week_subject">Week Subject</string>
-    <string name="love_the_neighbor">Love the neighbor</string>
-    <string name="week_subject_description">Daily study to Week Subject</string>
 </resources>

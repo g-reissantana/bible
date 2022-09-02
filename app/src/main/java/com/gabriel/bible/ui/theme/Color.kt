@@ -1,4 +1,4 @@
-package com.gabriel.bible.presentation.ui.theme
+package com.gabriel.bible.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.gabriel.bible.presentation.ui.theme
+package com.gabriel.bible.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
