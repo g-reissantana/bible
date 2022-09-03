@@ -1,4 +1,4 @@
-package com.gabriel.bible.home.presentation.explorer
+package com.gabriel.bible.home.presentation.for_you
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -7,7 +7,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 @Composable
-fun ExplorerScreen() {
+fun ForYouScreen() {
     Column(
         Modifier.fillMaxSize()
     ) {
